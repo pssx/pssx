@@ -1,6 +1,10 @@
 ## 👋 Hi! I'm Paulo Vinícius
 
-
+<div>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pssx&theme=dark&show_icons=true&count_private=true&include_all_commits=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pssx&layout=compact&langs_count=7&theme=dark"/> -->
+</div>
 
 
 <!--
