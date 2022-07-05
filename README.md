@@ -1,4 +1,4 @@
-## Hi! I'm Paulo Vinícius
+## 👋 Hi! I'm Paulo Vinícius
 
 
 
