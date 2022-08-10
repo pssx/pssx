@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Paulo Vinícius
+<h1 align="center">Hi 👋, I'm Paulo Vinícius</h1>
 
 <div>
   
